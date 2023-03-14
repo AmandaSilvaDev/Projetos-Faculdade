@@ -1,0 +1,11 @@
+C:\Users\Amanda\Desktop\projetos - faculdade\programação-visual\GastoEmRestaurante\GastoEmRestaurante\bin\Debug\GastoEmRestaurante.exe.config
+C:\Users\Amanda\Desktop\projetos - faculdade\programação-visual\GastoEmRestaurante\GastoEmRestaurante\bin\Debug\GastoEmRestaurante.exe
+C:\Users\Amanda\Desktop\projetos - faculdade\programação-visual\GastoEmRestaurante\GastoEmRestaurante\bin\Debug\GastoEmRestaurante.pdb
+C:\Users\Amanda\Desktop\projetos - faculdade\programação-visual\GastoEmRestaurante\GastoEmRestaurante\obj\Debug\GastoEmRestaurante.csproj.AssemblyReference.cache
+C:\Users\Amanda\Desktop\projetos - faculdade\programação-visual\GastoEmRestaurante\GastoEmRestaurante\obj\Debug\GastoEmRestaurante.csproj.SuggestedBindingRedirects.cache
+C:\Users\Amanda\Desktop\projetos - faculdade\programação-visual\GastoEmRestaurante\GastoEmRestaurante\obj\Debug\GastoEmRestaurante.FormGastoEmRestaurante.resources
+C:\Users\Amanda\Desktop\projetos - faculdade\programação-visual\GastoEmRestaurante\GastoEmRestaurante\obj\Debug\GastoEmRestaurante.Properties.Resources.resources
+C:\Users\Amanda\Desktop\projetos - faculdade\programação-visual\GastoEmRestaurante\GastoEmRestaurante\obj\Debug\GastoEmRestaurante.csproj.GenerateResource.cache
+C:\Users\Amanda\Desktop\projetos - faculdade\programação-visual\GastoEmRestaurante\GastoEmRestaurante\obj\Debug\GastoEmRestaurante.csproj.CoreCompileInputs.cache
+C:\Users\Amanda\Desktop\projetos - faculdade\programação-visual\GastoEmRestaurante\GastoEmRestaurante\obj\Debug\GastoEmRestaurante.exe
+C:\Users\Amanda\Desktop\projetos - faculdade\programação-visual\GastoEmRestaurante\GastoEmRestaurante\obj\Debug\GastoEmRestaurante.pdb

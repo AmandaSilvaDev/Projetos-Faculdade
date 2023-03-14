@@ -1,0 +1,11 @@
+C:\Users\Amanda\Desktop\projetos - faculdade\programação-visual\RestoDeDivisao\RestoDeDivisao\bin\Debug\RestoDeDivisao.exe.config
+C:\Users\Amanda\Desktop\projetos - faculdade\programação-visual\RestoDeDivisao\RestoDeDivisao\bin\Debug\RestoDeDivisao.exe
+C:\Users\Amanda\Desktop\projetos - faculdade\programação-visual\RestoDeDivisao\RestoDeDivisao\bin\Debug\RestoDeDivisao.pdb
+C:\Users\Amanda\Desktop\projetos - faculdade\programação-visual\RestoDeDivisao\RestoDeDivisao\obj\Debug\RestoDeDivisao.csproj.AssemblyReference.cache
+C:\Users\Amanda\Desktop\projetos - faculdade\programação-visual\RestoDeDivisao\RestoDeDivisao\obj\Debug\RestoDeDivisao.csproj.SuggestedBindingRedirects.cache
+C:\Users\Amanda\Desktop\projetos - faculdade\programação-visual\RestoDeDivisao\RestoDeDivisao\obj\Debug\RestoDeDivisao.Form1.resources
+C:\Users\Amanda\Desktop\projetos - faculdade\programação-visual\RestoDeDivisao\RestoDeDivisao\obj\Debug\RestoDeDivisao.Properties.Resources.resources
+C:\Users\Amanda\Desktop\projetos - faculdade\programação-visual\RestoDeDivisao\RestoDeDivisao\obj\Debug\RestoDeDivisao.csproj.GenerateResource.cache
+C:\Users\Amanda\Desktop\projetos - faculdade\programação-visual\RestoDeDivisao\RestoDeDivisao\obj\Debug\RestoDeDivisao.csproj.CoreCompileInputs.cache
+C:\Users\Amanda\Desktop\projetos - faculdade\programação-visual\RestoDeDivisao\RestoDeDivisao\obj\Debug\RestoDeDivisao.exe
+C:\Users\Amanda\Desktop\projetos - faculdade\programação-visual\RestoDeDivisao\RestoDeDivisao\obj\Debug\RestoDeDivisao.pdb
