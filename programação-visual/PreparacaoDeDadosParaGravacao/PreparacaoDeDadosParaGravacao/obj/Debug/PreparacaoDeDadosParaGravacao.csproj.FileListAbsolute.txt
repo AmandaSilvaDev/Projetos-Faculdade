@@ -1,0 +1,11 @@
+C:\Users\Amanda\Desktop\projetos - faculdade\programação-visual\PreparacaoDeDadosParaGravacao\PreparacaoDeDadosParaGravacao\bin\Debug\PreparacaoDeDadosParaGravacao.exe.config
+C:\Users\Amanda\Desktop\projetos - faculdade\programação-visual\PreparacaoDeDadosParaGravacao\PreparacaoDeDadosParaGravacao\bin\Debug\PreparacaoDeDadosParaGravacao.exe
+C:\Users\Amanda\Desktop\projetos - faculdade\programação-visual\PreparacaoDeDadosParaGravacao\PreparacaoDeDadosParaGravacao\bin\Debug\PreparacaoDeDadosParaGravacao.pdb
+C:\Users\Amanda\Desktop\projetos - faculdade\programação-visual\PreparacaoDeDadosParaGravacao\PreparacaoDeDadosParaGravacao\obj\Debug\PreparacaoDeDadosParaGravacao.csproj.AssemblyReference.cache
+C:\Users\Amanda\Desktop\projetos - faculdade\programação-visual\PreparacaoDeDadosParaGravacao\PreparacaoDeDadosParaGravacao\obj\Debug\PreparacaoDeDadosParaGravacao.csproj.SuggestedBindingRedirects.cache
+C:\Users\Amanda\Desktop\projetos - faculdade\programação-visual\PreparacaoDeDadosParaGravacao\PreparacaoDeDadosParaGravacao\obj\Debug\PreparacaoDeDadosParaGravacao.Form1.resources
+C:\Users\Amanda\Desktop\projetos - faculdade\programação-visual\PreparacaoDeDadosParaGravacao\PreparacaoDeDadosParaGravacao\obj\Debug\PreparacaoDeDadosParaGravacao.Properties.Resources.resources
+C:\Users\Amanda\Desktop\projetos - faculdade\programação-visual\PreparacaoDeDadosParaGravacao\PreparacaoDeDadosParaGravacao\obj\Debug\PreparacaoDeDadosParaGravacao.csproj.GenerateResource.cache
+C:\Users\Amanda\Desktop\projetos - faculdade\programação-visual\PreparacaoDeDadosParaGravacao\PreparacaoDeDadosParaGravacao\obj\Debug\PreparacaoDeDadosParaGravacao.csproj.CoreCompileInputs.cache
+C:\Users\Amanda\Desktop\projetos - faculdade\programação-visual\PreparacaoDeDadosParaGravacao\PreparacaoDeDadosParaGravacao\obj\Debug\PreparacaoDeDadosParaGravacao.exe
+C:\Users\Amanda\Desktop\projetos - faculdade\programação-visual\PreparacaoDeDadosParaGravacao\PreparacaoDeDadosParaGravacao\obj\Debug\PreparacaoDeDadosParaGravacao.pdb
