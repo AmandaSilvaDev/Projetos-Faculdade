@@ -1,0 +1,3 @@
+Amanda;100
+Gabis;50
+Fran;80

@@ -40,9 +40,10 @@
             // 
             // btnCriarLinhas
             // 
-            this.btnCriarLinhas.Location = new System.Drawing.Point(501, 30);
+            this.btnCriarLinhas.Location = new System.Drawing.Point(376, 24);
+            this.btnCriarLinhas.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.btnCriarLinhas.Name = "btnCriarLinhas";
-            this.btnCriarLinhas.Size = new System.Drawing.Size(134, 35);
+            this.btnCriarLinhas.Size = new System.Drawing.Size(100, 28);
             this.btnCriarLinhas.TabIndex = 0;
             this.btnCriarLinhas.Text = "Criar Linhas";
             this.btnCriarLinhas.UseVisualStyleBackColor = true;
@@ -50,9 +51,10 @@
             // 
             // btnCriarArquivo
             // 
-            this.btnCriarArquivo.Location = new System.Drawing.Point(60, 372);
+            this.btnCriarArquivo.Location = new System.Drawing.Point(45, 302);
+            this.btnCriarArquivo.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.btnCriarArquivo.Name = "btnCriarArquivo";
-            this.btnCriarArquivo.Size = new System.Drawing.Size(234, 35);
+            this.btnCriarArquivo.Size = new System.Drawing.Size(176, 28);
             this.btnCriarArquivo.TabIndex = 1;
             this.btnCriarArquivo.Text = "Criar arquivo";
             this.btnCriarArquivo.UseVisualStyleBackColor = true;
@@ -60,9 +62,10 @@
             // 
             // btnReiniciar
             // 
-            this.btnReiniciar.Location = new System.Drawing.Point(397, 372);
+            this.btnReiniciar.Location = new System.Drawing.Point(298, 302);
+            this.btnReiniciar.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.btnReiniciar.Name = "btnReiniciar";
-            this.btnReiniciar.Size = new System.Drawing.Size(238, 35);
+            this.btnReiniciar.Size = new System.Drawing.Size(178, 28);
             this.btnReiniciar.TabIndex = 2;
             this.btnReiniciar.Text = "Reiniciar";
             this.btnReiniciar.UseVisualStyleBackColor = true;
@@ -76,41 +79,46 @@
             // 
             // txtNumeroFuncionarios
             // 
-            this.txtNumeroFuncionarios.Location = new System.Drawing.Point(201, 36);
+            this.txtNumeroFuncionarios.Location = new System.Drawing.Point(151, 29);
+            this.txtNumeroFuncionarios.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.txtNumeroFuncionarios.Name = "txtNumeroFuncionarios";
-            this.txtNumeroFuncionarios.Size = new System.Drawing.Size(93, 22);
+            this.txtNumeroFuncionarios.Size = new System.Drawing.Size(71, 20);
             this.txtNumeroFuncionarios.TabIndex = 3;
             // 
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(57, 39);
+            this.label1.Location = new System.Drawing.Point(43, 32);
+            this.label1.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(126, 16);
+            this.label1.Size = new System.Drawing.Size(102, 13);
             this.label1.TabIndex = 4;
             this.label1.Text = "Nr. de Funcionarios:";
             // 
             // dgvFuncionarios
             // 
+            this.dgvFuncionarios.AllowUserToAddRows = false;
             this.dgvFuncionarios.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dgvFuncionarios.Location = new System.Drawing.Point(60, 71);
+            this.dgvFuncionarios.Location = new System.Drawing.Point(45, 58);
+            this.dgvFuncionarios.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.dgvFuncionarios.Name = "dgvFuncionarios";
             this.dgvFuncionarios.RowHeadersWidth = 51;
             this.dgvFuncionarios.RowTemplate.Height = 24;
-            this.dgvFuncionarios.Size = new System.Drawing.Size(575, 272);
+            this.dgvFuncionarios.Size = new System.Drawing.Size(431, 221);
             this.dgvFuncionarios.TabIndex = 5;
             // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(691, 450);
+            this.ClientSize = new System.Drawing.Size(518, 366);
             this.Controls.Add(this.dgvFuncionarios);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.txtNumeroFuncionarios);
             this.Controls.Add(this.btnReiniciar);
             this.Controls.Add(this.btnCriarArquivo);
             this.Controls.Add(this.btnCriarLinhas);
+            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.Name = "Form1";
             this.Text = "Form1";
             this.Load += new System.EventHandler(this.Form1_Load);
